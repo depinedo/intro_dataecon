@@ -1,5 +1,5 @@
 ---
-title: "Introducción"
+title: "Presentación"
 author: "Andrés Vargas"
 date: "14/6/2021"
 output: 
@@ -23,8 +23,8 @@ El curso se organiza alrededor del flujo típico de un proyecto
 <div class="figure">
 
 ```{=html}
-<div id="htmlwidget-e894c607a56fc2c48d70" style="width:672px;height:480px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-e894c607a56fc2c48d70">{"x":{"diagram":"digraph flowchart {\n\nnode [fontname = helvetica, shape = oval, style=filled,fillcolor = lightblue, color=lightblue]\nPregunta\nDatos\nAlgoritmo\nComunicación\n\nPregunta->Datos->Algoritmo->Comunicación\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-65d85f2615f3b28a6ca7" style="width:672px;height:480px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-65d85f2615f3b28a6ca7">{"x":{"diagram":"digraph flowchart {\n\nnode [fontname = helvetica, shape = oval, style=filled,fillcolor = lightblue, color=lightblue]\nPregunta\nDatos\nAlgoritmo\nComunicación\n\nPregunta->Datos->Algoritmo->Comunicación\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
 ```
 
 <p class="caption">Flujo simple de un proyecto</p>

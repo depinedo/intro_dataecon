@@ -1,9 +1,10 @@
 ---
-title: "Introducción"
+title: "Presentación"
 author: "Andrés Vargas"
 date: "14/6/2021"
-output: html_document
-  
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ## Propósito del curso
