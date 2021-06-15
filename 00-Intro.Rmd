@@ -13,6 +13,7 @@ Y digo investigador porque aún si usted no se dedica a la academía, se dará c
 
 En pocas palabras, el diseño de este curso está inspirado en lo que ha sido mi experiencia personal y lo que hubiese deseado que me enseñaran en la universidad. 
 
+
 ## Contenido del curso
 
 El curso se organiza alrededor del flujo típico de un proyecto
@@ -35,6 +36,22 @@ Todo empieza con un objetivo, una pregunta, una necesidad, un problema. Usted se
 
 El análisis de datos es lo mismo. Partimos de una necesidad, buscamos los datos, los procesamos y analizamos usando los métodos adecuados para lo que queremos y lo que tenemos. A veces tenemos datos que no necesitamos, y a veces quisieramos tener datos con los que no contamos. Para mi, un buen cocinero es el que hace lo mejor que puede con lo que tiene disponible ¿Para que sirve crear una receta que no se podrá preparar por falta de ingredientes?
 
+
+### Tópicos
+
+Sesión 1: Introducción
+
+Sesión 2: ¿Los datos vienen listos para analizar? Casi nunca. Demostración
+
+Sesión 3: ¿Los datos vienen listos para analizar? Casi nunca. Reto de programación
+
+Sesión 4 y 5: Tareas de clasificación/predicción
+
+Sesión 6: Tareas de clasificación/predicción. Reto de programación
+
+Sesión 7 y 8: Visualizaciones interactivas con R Shiny
+
+
 ## ¿Qué necesita para este curso?
 
 Asegúrese de poder contar con lo siguiente
@@ -44,3 +61,12 @@ Asegúrese de poder contar con lo siguiente
 2. Instalar R y RStudio
 
 3. Buena disposición para participar y hablar en clase. No se preocupe, acá estamos todos para aprender
+
+
+## Metodología
+
+Cada sesión tiene dos partes. La primera es demostrativa y funciona similar a una clase tradicional. La segunda parte es de manos a la obra. Usaremos [R Markdown](https://rmarkdown.rstudio.com/), pues nos permite presentar texto y código de programación en el mismo archivo. Para una guía detallada para su uso [ver](https://bookdown.org/yihui/rmarkdown/)
+
+Los códigos, archivos Rmd, y los datos estarán alojados en https://github.com/andvarga-eco/intro_dataecon
+
+
