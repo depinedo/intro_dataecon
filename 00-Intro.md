@@ -20,19 +20,15 @@ En pocas palabras, el diseño de este curso está inspirado en lo que ha sido mi
 
 El curso se organiza alrededor del flujo típico de un proyecto
 
-```{r, echo=FALSE, warning=FALSE,message=FALSE, fig.cap="Flujo simple de un proyecto"}
-library(DiagrammeR)
-grViz(diagram = "digraph flowchart {
+<div class="figure">
 
-node [fontname = helvetica, shape = oval, style=filled,fillcolor = lightblue, color=lightblue]
-Pregunta
-Datos
-Algoritmo
-Comunicación
-
-Pregunta->Datos->Algoritmo->Comunicación
-}")
+```{=html}
+<div id="htmlwidget-f940742df934345b368e" style="width:672px;height:480px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f940742df934345b368e">{"x":{"diagram":"digraph flowchart {\n\nnode [fontname = helvetica, shape = oval, style=filled,fillcolor = lightblue, color=lightblue]\nPregunta\nDatos\nAlgoritmo\nComunicación\n\nPregunta->Datos->Algoritmo->Comunicación\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
 ```
+
+<p class="caption">Flujo simple de un proyecto</p>
+</div>
 
 Todo empieza con un objetivo, una pregunta, una necesidad, un problema. Usted se levanta por la mañana, tiene hambre y necesita desayunar. Busca en la nevera y la alacena, encuentra huevos, tomate, jamón, queso, pan, yuca, arepas ¿Qué puede hacer con lo que ha encontrado? Quizás huevos fritos con arepa y queso.  Mejor huevos con tomate y jamón, y un sánduche de queso. De pronto muy complicado, tiene poco tiempo y requiere combustible, así que un sánduche de jamón y queso basta. 
 
