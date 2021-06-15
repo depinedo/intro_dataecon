@@ -6,3 +6,5 @@ Este es un taller introductorio al análisis de datos en R. Está dirigido princ
 1. Presentación del curso [html](https://raw.githack.com/andvarga-eco/intro_dataecon/main/00-Intro.html)
 
 2. Introducción [html](https://raw.githack.com/andvarga-eco/intro_dataecon/main/01-Intro.html)
+
+3. Organizar y limpiar los datos
