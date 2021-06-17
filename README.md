@@ -79,4 +79,6 @@ Tema: Visualización interactiva con Rshiny
 
 2. Introducción [Sesión 1](https://raw.githack.com/andvarga-eco/intro_dataecon/main/01-Intro.html)
 
+3. Análisis exploratorio de datos [Sesión 2](https://raw.githack.com/andvarga-eco/intro_dataecon/main/02-EDA.html)
+
 
